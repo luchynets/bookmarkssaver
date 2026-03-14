@@ -22,8 +22,8 @@
 
 ### 1. Клонування репозиторію
 ```bash
-git clone [https://github.com/ваш-юзернейм/назва-репозиторію.git](https://github.com/ваш-юзернейм/назва-репозиторію.git)
-cd назва-репозиторію
+git clone [https://github.com/luchynets/bookmarkssaver.git](https://github.com/luchynets/bookmarkssaver.git)
+cd bookmarkssaver
 python -m venv venv
 source venv/bin/activate  # Для Windows: venv\Scripts\activate
 pip install -r requirements.txt
