@@ -1,4 +1,4 @@
-# 📑 Bookmark Manager API
+# 📑 Bookmark Manager API v1.0
 
 Сучасний веб-додаток для збереження та організації ваших закладок. Побудований на **FastAPI**, **PostgreSQL** та чистому **JavaScript**.
 
