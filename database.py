@@ -5,11 +5,11 @@ class DataBase:
     def __init__(self):
         try:
             self.conn = psycopg2.connect(
-                database="bkmanager",
-                user="postgres",
-                password="1111",
-                host="localhost",
-                port="5432"
+                database="",
+                user="",
+                password="",
+                host="",
+                port=""
             )
             print("Connection to the PostgreSQL database successful.")
         except psycopg2.DatabaseError as e:
